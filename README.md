@@ -1,1 +1,3 @@
-# Hacker News reader from the command line
+# Newsboard
+
+Hacker News reader from the command line
