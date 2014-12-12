@@ -30,7 +30,6 @@ list.on('keypress', function(key, item){
       console.log('opening %s', item);
       break;
     case 'backspace':
-      break;
     case 'escape':
       list.stop();
       process.exit();
