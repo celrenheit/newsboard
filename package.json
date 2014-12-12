@@ -1,6 +1,6 @@
 {
   "name": "newsboard",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Newsboard is a basic Hacker News reader from the command line",
   "main": "index.js",
   "scripts": {
